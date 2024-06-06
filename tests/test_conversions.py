@@ -1,6 +1,6 @@
 import unittest
-from src import length
-from src import temperature
+from unit_conversions import length
+from unit_conversions import temperature
 
 class TesttempConversions(unittest.TestCase):
 

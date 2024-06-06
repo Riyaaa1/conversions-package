@@ -5,7 +5,7 @@ setup(
     description="A dummy unit conversions package",
     author="Riya",
     author_email="lcsmriti@gmail.com",
-    packages=['src'],
+    packages=['unit_conversions'],
     python_requires = '>=3.10',
     install_requires =[],
     license='MIT'

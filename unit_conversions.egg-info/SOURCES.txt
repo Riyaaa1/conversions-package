@@ -1,8 +1,10 @@
+LICENSE
+README.md
 setup.py
-src/__init__.py
-src/length.py
-src/temperature.py
 tests/test_conversions.py
+unit_conversions/__init__.py
+unit_conversions/length.py
+unit_conversions/temperature.py
 unit_conversions.egg-info/PKG-INFO
 unit_conversions.egg-info/SOURCES.txt
 unit_conversions.egg-info/dependency_links.txt
