@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: my_conversions
+Version: 1.0.0
+Summary: A dummy unit conversions package
+Author: Riya
+Author-email: lcsmriti@gmail.com
+License: MIT
+Requires-Python: >=3.10
+License-File: LICENSE
