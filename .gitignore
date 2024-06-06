@@ -1,0 +1,11 @@
+# ignore the build directory and it's contents
+build
+# ignore the distribution directory
+dist
+
+# ignore the directories created during install
+unit_conversions.egg-info
+
+# ignore cache files
+unit_conversions/__pycache__
+
