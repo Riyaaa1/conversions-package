@@ -7,10 +7,13 @@ This is an sample python package that performs basic temperature and length conv
 ## Installation:
 #### clone the repository
 First, clone the repository to your local machine.
+```bash
 git clone https://github.com/Riyaaa1/conversions-package.git
-
-#### pip install the package using local distribution file
-pip install /path/to/dist/unit_conversions-1.0.0.tar.gz
+```
+Go to the project directory:
+```bash
+cd conversions-package
+```
 
 #### Usage example
 
